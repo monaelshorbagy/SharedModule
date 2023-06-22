@@ -8,7 +8,7 @@ obj/
 /.vs/
 /.idea/
 *.suo
-.suo
+/.suo
 *.user
 *.userprefs
 *.vssettings
