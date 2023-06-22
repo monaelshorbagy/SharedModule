@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPI.Model", "MPI.Model\MPI.Model.csproj", "{9B54E0C1-83E5-49F8-995B-024CE76653DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VM.Model", "VM.Model\VM.Model.csproj", "{2A43E44A-E77B-47B6-9276-F86E968E5019}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VM.API", "VM.API\VM.API.csproj", "{D57B0294-5FF0-4716-8C32-0720C2815E81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMIS.Core", "HMIS.Core\HMIS.Core.csproj", "{79175EAB-7F3F-4D10-8566-9C70EF1A3B2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patient.Service", "Patient.Service\Patient.Service.csproj", "{C549459D-7D9D-4E0B-B678-25C7098F2F69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPI.API", "MPI.API\MPI.API.csproj", "{D93F5505-ADB6-41F9-AD40-FCC881992B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B54E0C1-83E5-49F8-995B-024CE76653DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B54E0C1-83E5-49F8-995B-024CE76653DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B54E0C1-83E5-49F8-995B-024CE76653DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B54E0C1-83E5-49F8-995B-024CE76653DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A43E44A-E77B-47B6-9276-F86E968E5019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A43E44A-E77B-47B6-9276-F86E968E5019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A43E44A-E77B-47B6-9276-F86E968E5019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A43E44A-E77B-47B6-9276-F86E968E5019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57B0294-5FF0-4716-8C32-0720C2815E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57B0294-5FF0-4716-8C32-0720C2815E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57B0294-5FF0-4716-8C32-0720C2815E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57B0294-5FF0-4716-8C32-0720C2815E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79175EAB-7F3F-4D10-8566-9C70EF1A3B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79175EAB-7F3F-4D10-8566-9C70EF1A3B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79175EAB-7F3F-4D10-8566-9C70EF1A3B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79175EAB-7F3F-4D10-8566-9C70EF1A3B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C549459D-7D9D-4E0B-B678-25C7098F2F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C549459D-7D9D-4E0B-B678-25C7098F2F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C549459D-7D9D-4E0B-B678-25C7098F2F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C549459D-7D9D-4E0B-B678-25C7098F2F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93F5505-ADB6-41F9-AD40-FCC881992B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93F5505-ADB6-41F9-AD40-FCC881992B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93F5505-ADB6-41F9-AD40-FCC881992B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93F5505-ADB6-41F9-AD40-FCC881992B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E6EA8BC-34C1-40C1-B47E-523176BB0245}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\bin\Debug\netcoreapp2.2\MPI.Data.deps.json
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\bin\Debug\netcoreapp2.2\MPI.Data.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\bin\Debug\netcoreapp2.2\MPI.Data.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.csproj.AssemblyReference.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.AssemblyInfoInputs.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.AssemblyInfo.cs
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\bin\Debug\netcoreapp2.2\MPI.Model.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\bin\Debug\netcoreapp2.2\MPI.Model.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\MPI.Data\obj\Debug\netcoreapp2.2\MPI.Data.csproj.CopyComplete

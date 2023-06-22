@@ -1,0 +1,10 @@
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\bin\Debug\netcoreapp2.2\HMIS.Core.deps.json
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\bin\Debug\netcoreapp2.2\HMIS.Core.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\bin\Debug\netcoreapp2.2\HMIS.Core.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.csproj.AssemblyReference.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.AssemblyInfoInputs.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.AssemblyInfo.cs
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.csproj.CoreCompileInputs.cache
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\HMIS.Core\obj\Debug\netcoreapp2.2\HMIS.Core.pdb
