@@ -1,7 +1,11 @@
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\VM.Model.deps.json
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\VM.Model.dll
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\VM.Model.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\HMIS.Core.dll
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\MPI.Model.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\Patient.Service.dll
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\HMIS.Core.pdb
+C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\Patient.Service.pdb
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\MPI.Model.pdb
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcoreapp2.2\VM.Model.csproj.AssemblyReference.cache
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcoreapp2.2\VM.Model.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,7 +15,3 @@ C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcore
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcoreapp2.2\VM.Model.csproj.CopyComplete
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcoreapp2.2\VM.Model.dll
 C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\obj\Debug\netcoreapp2.2\VM.Model.pdb
-C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\HMIS.Core.dll
-C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\Patient.Service.dll
-C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\HMIS.Core.pdb
-C:\Users\mona.elshorbagy\source\repos\POCSharedModule\VM.Model\bin\Debug\netcoreapp2.2\Patient.Service.pdb
