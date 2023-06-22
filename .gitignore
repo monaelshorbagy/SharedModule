@@ -28,3 +28,4 @@ launchSettings.json
 *.swp
 .vs/
 *.cache
+*.deps.json
