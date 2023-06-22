@@ -13,10 +13,10 @@
 /logs/
 /wwwroot/*.log
 /App_Data/Cache/
-/appsettings.json
-/appsettings.Development.json
-/appsettings.*.json
-/launchSettings.json
+appsettings.json
+appsettings.Development.json
+appsettings.*.json
+launchSettings.json
 *.csproj.user
 *.user.props
 *.lock.json
