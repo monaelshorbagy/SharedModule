@@ -12,6 +12,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using VM.Model;
 using VM.Model.Model;
 
 namespace VM.API
