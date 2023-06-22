@@ -29,3 +29,5 @@ launchSettings.json
 .vs/
 *.cache
 *.deps.json
+/bin/Debug
+/netcoreapp2.2/
