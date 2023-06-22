@@ -1,5 +1,6 @@
 /bin/
 /obj/
+obj/
 *.dll
 *.exe
 *.pdb
@@ -7,6 +8,7 @@
 /.vs/
 /.idea/
 *.suo
+.suo
 *.user
 *.userprefs
 *.vssettings
