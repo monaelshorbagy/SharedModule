@@ -26,3 +26,4 @@ launchSettings.json
 .sln.ide
 *.tmp
 *.swp
+.vs/
